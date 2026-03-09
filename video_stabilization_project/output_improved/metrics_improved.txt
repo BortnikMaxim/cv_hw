@@ -1,0 +1,11 @@
+=== Improved Video Stabilization Metrics ===
+Input video: input/pexels_4101533.mp4
+Mean tracked points: 574.54
+Mean RANSAC inliers: 330.10
+Mean black ratio: 0.000075
+Raw mean translation: 15.442017
+Smoothed mean translation: 43.291397
+Raw std translation: 13.022783
+Smoothed std translation: 29.198801
+Raw mean abs angle: 0.008640
+Smoothed mean abs angle: 0.023832
